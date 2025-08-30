@@ -1,6 +1,5 @@
 # 🤖 AI Prompt Generator
 
-## 🤖 AI Prompt Generator
 [![Try it Live](https://img.shields.io/badge/Try%20It-Now-blue?style=for-the-badge)](https://ai-prompt-generator-app.vercel.app/)
 ✨ Experience it live at: [https://ai-prompt-generator-app.vercel.app/](https://ai-prompt-generator-app.vercel.app/)
 
