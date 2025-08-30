@@ -4,7 +4,7 @@
 ✨ Experience it live at: [https://ai-prompt-generator-app.vercel.app/](https://ai-prompt-generator-app.vercel.app/)
 
 
-## DEMO VIDEO
+## DEMO PROMPT
 
 https://github.com/user-attachments/assets/037db3ed-6c69-4b6d-8bc8-8a9cf28bb535
 
